@@ -1,0 +1,25 @@
+html {
+    background-color: black;
+    color: white;
+}
+
+img {
+    height: 400px;
+    width: 100%;
+    border: 5px solid gold;
+}
+
+div {
+width: 50%;
+margin-left: 25%;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Caveat', cursive;
+    text-transform: uppercase;
+}
+
+p{
+    text-align: center;
+}
